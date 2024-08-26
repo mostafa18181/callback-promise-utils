@@ -1,0 +1,24 @@
+{
+  "name": "callback-promise-utils",
+  "version": "1.0.0",
+  "description": "A utility package for converting callbacks to promises and vice versa, supporting async patterns with cancellation and reflection",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha  "
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async",
+    "cancellation",
+    "reflection"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^3.2.3",
+    "bluebird": "^3.7.2",
+    "chai": "^4.0.0",
+    "mocha": "^9.2.2"
+  }
+}
