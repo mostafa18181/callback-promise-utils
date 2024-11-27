@@ -1,6 +1,4 @@
-Sure! Here's the final version of the `README.md` content:
 
----
 
 # Callback-Promise-Utils
 
@@ -171,7 +169,3 @@ console.log('Benchmark completed.');
 - **Cancellation Token**: Support for canceling asynchronous operations using a simple token mechanism.
 - **Reflection**: Always resolve with an object describing the promise state.
 
----
-
-This `README.md` provides a comprehensive overview of the `Callback-Promise-Utils` package, covering installation,
-usage, features, and examples, making it clear and informative for users.
